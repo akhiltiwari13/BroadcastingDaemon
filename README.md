@@ -19,9 +19,8 @@ The detailed build command is:
     • gcc -o broadcasting_daemon src/main.c src/display_status.c -lncurses
 
 Screenshots:
-These are the screenshots from when I tested the program on the two aforementioned machines.
-
-
+The screenshots from when I tested the program on the two aforementioned machines
+are present in the images directory.
 
 
 Happy Broadcasting!!!!!
