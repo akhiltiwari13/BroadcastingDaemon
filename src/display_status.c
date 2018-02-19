@@ -17,8 +17,7 @@
    /* Search the  table for an entry with a matching  text string.  If
       found, the ordinal position of the entry in the table is used to
       determing the position on the screen at which this entry will be
-      displayed. The x,y values are only displayed;  they are NOT kept
-      in the table. If no matching entry is found and the table is not
+      displayed.If no matching entry is found and the table is not
       full, a new entry is created.
    */
 
